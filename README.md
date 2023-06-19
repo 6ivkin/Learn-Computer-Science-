@@ -26,16 +26,3 @@ Start# Teach Yourself Computer Science
 <h1>Still too much?</h1>
   <p></p>If the idea of self-studying 9 topics over multiple years feels overwhelming, we suggest you focus on just two books: Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications. In our experience, these two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications. They may also serve as a "gateway drug" for the other topics and resources listed above.</p>
   
-  
-  
-  ## Todo List
-  
-  -[] Programming
-  -[] Computer Architecture
-  -[] Algorithms and Data Structures
-  -[] Math for CS
-  -[] Operating Systems
-  -[] Computer Networking
-  -[] Databases
-  -[] Computer Networking
-  -[] Distributed Systems
