@@ -1,6 +1,6 @@
 # Teach Yourself Computer Science
 
-Здесь будет собранны данные из топовых университетов по которым я буду учиться:
+  Здесь будет собранны данные из топовых университетов по которым я буду учиться:
 
 <table>
   <caption>
@@ -21,3 +21,7 @@
     <tr><td><a href="https://teachyourselfcs.com/#distributed-systems">Distributed Systems</a></td><td>These days, most systems are distributed systems.</td><td>Designing Data-Intensive Applications by Martin Kleppmann</td><td>MIT 6.824</td></tr>
   </tbody>
 </table>
+
+
+Still too much?
+  If the idea of self-studying 9 topics over multiple years feels overwhelming, we suggest you focus on just two books: Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications. In our experience, these two books provide incredibly high return on time invested, particularly for self-taught engineers and bootcamp grads working on networked applications. They may also serve as a "gateway drug" for the other topics and resources listed above.
